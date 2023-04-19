@@ -1,5 +1,5 @@
 # RealEstate-CashFlow
-Script used to compare a potential real estate investment to stock market returns of the invest down payment and mortgage payments. Will also calculate net cash flow ROIs under different interest rate regimes.
+Script used to compare a potential real estate investment to the opportunity cost of investing the down payment and mortgage payments in the stock market. Will also calculate net cash flow ROIs under different interest rate regimes.
 
 #####Cash Flow Calculator#####
 ########Jeremy Dawkins########
